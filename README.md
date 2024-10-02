@@ -16,5 +16,3 @@ Nice Ped Menu. Enfin un script 100% gratuit qui permet d'utiliser les peds redm 
 Pour les motivés qui souhaitent améliorer le script, le code est 100% lisible, rien n'est crypté.
 Dans le futur, une V2 est prévu.
 
-Showcase : https://www.youtube.com/watch?v=roP2-UNwfkQ
-Discord : https://discord.com/channels/906822115024597042/1269279726078267412
